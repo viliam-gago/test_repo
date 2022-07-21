@@ -59,3 +59,4 @@ print('Vysledek je', str(vysledek))
 
 
 
+wrythw4ryjhwrythjwrtynjrwt
